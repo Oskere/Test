@@ -62,8 +62,8 @@ Working directory	Staging area	Local repository	Remote repository
 Directorio en el que se está trabajando	Area intermedia	Repositorio local	Repositorio remoto
 Comandos necesarios para añadir este archivo a mi repositorio:
 
-git add Git.md
+git add Git.md 
 git status
-git commit -m "Archivo git.md"
+git commit -m "Nombre-del-commit"
 git push origin master
-Enlace al repositorio público "https://github.com/Oskere/test1"
+Enlace al repositorio público **"https://github.com/Oskere/Test"**
